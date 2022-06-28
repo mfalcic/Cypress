@@ -3,6 +3,7 @@
 # Pre-requisite
 IDE - Visual Studio Code
 Node.js - includes NPM and NPX
+Cypress version : 9.2
 
 # installation (this is only if you dont have any cypress project in this case we dont need this command)
 In terminal in visual code type: npm init
