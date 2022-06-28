@@ -1,0 +1,23 @@
+{
+    "user":{
+        "id": 4,
+        "user_id":"23963333",
+        "title":"WeDoQa.",
+        "body":"Test1123.",
+        "email": "testemail@gmail.com",
+        "name": "testClient",
+        "gender": "male",
+        "status": "active"
+    },
+
+    "endpoitns":{
+
+        "url" : "https://gorest.co.in",
+        "getUrl": "https://gorest.co.in/public/v2/users",
+        "userById": "https://gorest.co.in/public/v2/users/8",
+        "postURL": "https://gorest.co.in/public/v2/users",
+        "deleteUrl": "https://gorest.co.in/public/v2/users/7"
+    },
+
+    "token" : "dee8b5b5f42fe61379961736a06888649b9fbba66f7b508b1c9683f35e6dc6ac"
+}

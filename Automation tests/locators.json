@@ -1,0 +1,38 @@
+{
+    "loginPage":{ 
+        "usernameField":"[data-test=username]",
+        "passwordField_locator":"[data-test=password]",
+        "loginBtn":"[data-test=login-button]",
+        "errorMessage": "[data-test=error]" 
+    },
+
+    "Backpac":{
+        "SauceLabsBackpack_Name":".inventory_item_name",
+        "SauceLabsBackapcName_Link":"#item_4_title_link > .inventory_item_name",
+        "SauceLabsBacpack_Details":"[#item_4_img_link > .inventory_item_img]",
+        "SauceLabsBackpack_Add":"[data-test=add-to-cart-sauce-labs-backpack]"
+    },
+    "BikeLight":{
+        "SauceLabsBikeLight_Name":"[#item_0_title_link > .inventory_item_name]",
+        "SauceLabsBikeLight_Details":"[#item_0_title_link > .inventory_item_name]",
+        "SauceLabsBikeLight_Add":"[data-test=add-to-cart-sauce-labs-bike-light]",
+        "ShoppingCart":".shopping_cart_link"
+    },
+    "CartPage":{
+        "ContinuShopping":"[data-test=continue-shopping]",
+        "RemoveElement": "[data-test=remove-sauce-labs-bike-light]",
+        "Checkout": "[data-test=checkout]"
+    },
+
+    "CheckoutPage":{
+        "FirstName": "[data-test=firstName]",
+        "LastName": "[data-test=lastName]",
+        "Zip": "[data-test=postalCode]",
+        "Continue": "[data-test=continue]",
+        "FinishOrder":"[data-test=finish]"
+    }
+
+
+
+
+}

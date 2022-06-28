@@ -1,0 +1,27 @@
+{
+    "_comment": "This is for UI testing",
+    "standar_user_username": "standard_user",
+    "locked_out_user_usename": "locked_out_user",
+    "problem_user_username": "problem_user",
+    "perfomance_glitch_user": "performance_glitch_user",
+    "password": "secret_sauce",
+    "WrongUsername": "test",
+    "WrongPassword": "test",
+
+    "performance_glitch_username": "performance_glitch_user",
+    "backpackName": "Sauce Labs Backpack",
+    "homePageTitle": "Swag Labs",
+    "cartPageTitle": "Your Cart",
+    "bikeLightName": "Sauce Labs Bike Light",
+    "firstName": "Test",
+    "lastName": "Test",
+    "zip": "12345",
+    "checkoutOveriew": "Checkout: Your Information",
+    "checkout": "Checkout: Overview",
+    "CheckoutComplete": "Checkout: Complete!",
+    "Message": "Your order has been dispatched, and will arrive just as fast as the pony can get there!",
+    "errorLoginMessage" : "Epic sadface: Username and password do not match any user in this service",
+    "EmptyUsernamePasswordMessage": "Epic sadface: Username is required"
+
+    
+}
